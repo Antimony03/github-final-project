@@ -11,7 +11,7 @@ Code Style:
 
 Languages Used:
 -Java 21 for backend development.
--Zsh shell scripting for automation or configuration.
+-bash shell scripting for automation or configuration.
 
 Documentation:
 -All contributions must be well-documented.
