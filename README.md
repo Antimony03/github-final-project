@@ -7,9 +7,7 @@ A lightweight calculator that computes **Simple Interest** based on the provided
 
 ## 📘 Formula
 
-\[
-\text{Simple Interest (SI)} = \frac{P \times R \times T}{100}
-\]
+**Simple Interest (SI)** = (P × R × T) / 100
 
 Where:
 - **P** = Principal amount  
