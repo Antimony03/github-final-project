@@ -41,8 +41,8 @@ Pull Request Process:
 -Test thoroughly and ensure nothing breaks.
 -Push your branch and open a Pull Request to the main branch.
 -Include a description summarizing your changes and link any related issues.
--Add yourself to the AUTHORS file to get recognized! 🏅
--Collaborate during review, and once merged, celebrate! 🎉
+-Add yourself to the AUTHORS file to get recognized! 
+-Collaborate during review, and once merged, celebrate! 
 
 Code of Conduct:
 Please make sure to read and follow our Code of Conduct in all your interactions with the community.
